@@ -14,6 +14,11 @@ namespace P1
 
         }
     
+        public void setName(String name)
+        {
+            this.name = name;
+        }
+
         public String ausgabe()
            {
             return name + "\n" + alter;
