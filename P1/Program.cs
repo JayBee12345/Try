@@ -6,7 +6,10 @@ namespace P1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            Huhu test = new Huhu();
+            test.ausgabe();
+           
         }
     }
 }
