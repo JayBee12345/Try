@@ -8,7 +8,7 @@ namespace P1
 
         private String name = "Gustav";
         private int alter = 29;
-        // Hallo
+        // Hallo 
         public Huhu()
         {
 
