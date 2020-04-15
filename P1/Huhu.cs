@@ -17,6 +17,7 @@ namespace P1
         public void setName(String name)
         {
             this.name = name;
+            Console.WriteLine("Hallo Welt");
         }
 
         public String ausgabe()
